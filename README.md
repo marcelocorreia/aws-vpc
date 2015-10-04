@@ -104,4 +104,3 @@ Some useful stuff at:
   - [https://galaxy.ansible.com/list#/users/15516](https://galaxy.ansible.com/list#/users/15516)
   - [https://hub.docker.com/u/marcelocorreia/](https://hub.docker.com/u/marcelocorreia/)
   - Any issues, pull-request are welcome
-# aws-vpc
