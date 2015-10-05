@@ -13,5 +13,6 @@ galaxy_info:
   - system
   - development
   - cloud:ec2
+  - networking
 
 dependencies: []
