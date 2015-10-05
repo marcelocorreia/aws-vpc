@@ -9,4 +9,6 @@
   tags:
     - AWS
     - Network
+    - VPC
+  register: vpc_info
   with_items: vpc_list

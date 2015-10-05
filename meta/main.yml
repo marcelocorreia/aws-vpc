@@ -12,5 +12,6 @@ galaxy_info:
   categories:
   - system
   - development
+  - cloud:ec2
 
 dependencies: []
